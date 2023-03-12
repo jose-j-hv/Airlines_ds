@@ -1,6 +1,3 @@
-# Compiled source #
-###################
-
-dataset/
+datasets/rf_random.pkl
 
 * .pkl
